@@ -1,0 +1,13 @@
+QuantLib>=1.30
+numpy
+scipy
+pandas
+PyYAML
+openpyxl
+flask
+# Optionnel (nécessite Bloomberg Terminal) :
+# blpapi
+# CPG module — SQL access :
+# pyodbc
+# Tests :
+# pytest
